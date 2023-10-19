@@ -20,7 +20,7 @@ Install :
 - `eth_api.txt` : https://etherscan.io/myapikey
 - `polygon_api.txt` : https://polygonscan.com/myapikey
 - `ftm_api.txt` : https://ftmscan.com/myapikey
-- `scroll_api.txt` : https://blockscout.scroll.io/myapikey
+- `scroll_api.txt` : https://scrollscan.com/myapikey
 1. You can change values of the variables to suit your needs into `setting.py` 
 - `CSV_WRITE_CHAINS` - True if you need to write information about the number of transactions for each network to CSV.
 - `CSV_WRITE_PROTOCOLS` - True if you need to write information about the number of transactions for each protocol to CSV.
