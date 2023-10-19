@@ -37,6 +37,7 @@ You can install "CSV to Table" script into VSCode.
 # Infos : 
 
 Twitter : 0xjust1.eth
+
 Tips : 0xA3Cb5B568529b27e93AE726C7d8aEF18Cd551621
 
 This script will be update frequently with new protocols & chains to keep update to check activity on LayerZero.
